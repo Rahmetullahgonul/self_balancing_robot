@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Self-Balancing Robot (MSP430)
 This project involves the development of a self-balancing robot using the MSP430 microcontroller. The robot is designed to maintain its balance autonomously through real-time adjustments, using sensors and motors to counteract any tilting. The primary goal of this project is to demonstrate the implementation of a feedback control system in robotics.
 
